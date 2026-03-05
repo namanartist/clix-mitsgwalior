@@ -1,0 +1,7 @@
+{
+  "name": "MITS Club Management System (CCMS)",
+  "description": "A comprehensive club management platform for Madhav Institute of Technology & Science, Gwalior, featuring multi-role access, recruitment tracking, event management with UPI payments, and automated certificate generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
